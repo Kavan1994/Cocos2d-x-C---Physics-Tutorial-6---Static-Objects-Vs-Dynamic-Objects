@@ -1,4 +1,4 @@
-Cocos2d-x-C---Physics-Tutorial-6---Static-Objects-Vs-Dynamic-Objects
+Cocos2d-x C++ Physics Tutorial 6 - Static Objects Vs Dynamic Objects
 ====================================================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/_XPUMfMXtnA
